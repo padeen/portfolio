@@ -16,6 +16,10 @@ p {
 	padding-bottom: 5px;
 }
 
+[class*="col-"] {
+	margin-top: 20px;
+}
+
 #intro {
 	padding-top: 50px;
 	padding-bottom: 50px;
